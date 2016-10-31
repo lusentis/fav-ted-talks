@@ -35,13 +35,15 @@
 
 #### Education & Sexuality
 
-* Ken Robinson: [do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
-* Ken Robinson: [how to escape education's death valley](https://www.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley)
-* Bill Gates: [teachers need real feedback](https://www.ted.com/talks/bill_gates_teachers_need_real_feedback)
+* Ken Robinson:
+  * [do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+  * [how to escape education's death valley](https://www.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley)
+* Bill Gates:
+  * [teachers need real feedback](https://www.ted.com/talks/bill_gates_teachers_need_real_feedback)
+  * [mosquitos, malaria and education](https://www.ted.com/talks/bill_gates_unplugged)
 * Lawrence Lessig: [the unstoppable walk to political reform](https://www.ted.com/talks/lawrence_lessig_the_unstoppable_walk_to_political_reform)
 * iO Tillett Wright: [fifty shades of gay](https://www.ted.com/talks/io_tillett_wright_fifty_shades_of_gay)
 * Norman Spack: [how I help transgender teens become who they want to be](https://www.ted.com/talks/norman_spack_how_i_help_transgender_teens_become_who_they_want_to_be)
-* Bill Gates: [mosquitos, malaria and education](https://www.ted.com/talks/bill_gates_unplugged)
 
 
 #### Classics
