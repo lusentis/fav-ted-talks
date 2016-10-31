@@ -1,7 +1,6 @@
 
 ### A list of my favorite [TED Talks](https://www.ted.com/)
 
-
 #### Life-saving
 * Amy Cuddy: [your body language shapes who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
 * Ron Gutman: [the hidden power of smiling](https://www.ted.com/talks/ron_gutman_the_hidden_power_of_smiling)
@@ -23,19 +22,31 @@
 * Sophie Scott: [why we laugh](https://www.ted.com/talks/sophie_scott_why_we_laugh)
 * Pamela Mayer: [how to spot a liar](https://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar)
 * Russell Foster: [why do we sleep](https://www.ted.com/talks/russell_foster_why_do_we_sleep)
+* Dan Gilbert:
+  * [the psychology of your future self](https://www.ted.com/talks/dan_gilbert_you_are_always_changing)
+  * [the surprising science of happyness](https://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy)
 * Rachel Sussman: [the world's oldest living things](https://www.ted.com/talks/rachel_sussman_the_world_s_oldest_living_things)
 * Suzanne Simard: [how trees talk to each other](https://www.ted.com/talks/suzanne_simard_how_trees_talk_to_each_other)
 * Marla Spivak: [why bees are disappearing?](https://www.ted.com/talks/marla_spivak_why_bees_are_disappearing)
+* Terry Moore: [why is the x unknown](https://www.ted.com/talks/terry_moore_why_is_x_the_unknown)
+* Anne Curzan: [what makes a word real?](https://www.ted.com/talks/anne_curzan_what_makes_a_word_real)
+* Regina Hartley: [why the best hire might not have the perfect resume](https://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)
 
 
-#### Education, Sexuality and Politics
+#### Education & Sexuality
 
 * Ken Robinson: [do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+* Ken Robinson: [how to escape education's death valley](https://www.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley)
 * Bill Gates: [teachers need real feedback](https://www.ted.com/talks/bill_gates_teachers_need_real_feedback)
-* Anne Curzan: [what makes a word real?](https://www.ted.com/talks/anne_curzan_what_makes_a_word_real)
+* Lawrence Lessig: [the unstoppable walk to political reform](https://www.ted.com/talks/lawrence_lessig_the_unstoppable_walk_to_political_reform)
+* iO Tillett Wright: [fifty shades of gay](https://www.ted.com/talks/io_tillett_wright_fifty_shades_of_gay)
+* Norman Spack: [how I help transgender teens become who they want to be](https://www.ted.com/talks/norman_spack_how_i_help_transgender_teens_become_who_they_want_to_be)
+* Bill Gates: [mosquitos, malaria and education](https://www.ted.com/talks/bill_gates_unplugged)
 
 
 #### Classics
 
 * Simon Sinek: [how great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 * Derek Sivers: [how to start a movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
+* Bill Gates: [innovating to zero](https://www.ted.com/talks/bill_gates)
+
