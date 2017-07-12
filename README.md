@@ -1,5 +1,5 @@
-
-### A list of my favorite [TED Talks](https://www.ted.com/)
+A list of my favorite [TED Talks](https://www.ted.com/)
+===
 
 #### Life-saving
 * Amy Cuddy: [your body language shapes who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
